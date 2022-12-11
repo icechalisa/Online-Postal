@@ -16,11 +16,7 @@ Program design -- what are your classes are and what are their objectives
     Receiver class : store the information of the receiver.
     Bill class : create the bill which contain the information of the package and the price.
 Code structure -- how many source files and what each of them contains
-    There are 4 source files. 
-    The main.cpp file contains the main function and the function to check the account information.
-    The account.cpp file contains the function to check the account information and function to write the new account.
-    The package.cpp file contains the function to store the information of the package and calculate the price.
-    The receiver.cpp file contains the function to store the information of the receiver.
-    The bill.cpp file contains the function to create the bill which contain the information of the package and the price.
+    The program  is using 1 source file which is account.json
+    In the source file, it contains the information of the account.
 GitHub URL : https://github.com/icechalisa/Online-Postal.git
 
