@@ -10,7 +10,6 @@ At the end the program will calculate the price that must be paid and come out a
 Required libraries and tools
     The program is using the library of tkinter, sqlite3, datetime, and random.
     The program is using the python version 3.8.5
-new account which user had created into the text file.
 Program design -- what are your classes are and what are their objectives
     Account class : contain function to check the account information and function to write the new account.
     Package class : store the information of the package and calculate the price.
